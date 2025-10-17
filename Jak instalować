@@ -1,0 +1,2 @@
+#Instalacja Wazuh - najnowszy agent:
+winget install Wazuh.WazuhAgent --custom "/q WAZUH_MANAGER=\"nazwa DNS\"" --silent
