@@ -1,0 +1,2 @@
+#Instalacja Wazuh - najnowszy agent z parametrem żeby się podłączył:
+winget install Wazuh.WazuhAgent --custom "/q WAZUH_MANAGER=\"wazuh.local.example.com\"" --silent
